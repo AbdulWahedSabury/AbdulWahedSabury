@@ -120,15 +120,6 @@ I am Abdul Wahed Sabury.I am a Full Stack Web Developer with experience of more 
       height="40"
     />
   </a>
-    </a>
-     <a href="https://laravel-livewire.com/" target="_blank">
-       <img
-      src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxUsempq1eJO6BaLsYH4sNuzn6pO643Z0BJKb8-6_&s)"
-      alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 
 
