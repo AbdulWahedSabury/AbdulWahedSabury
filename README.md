@@ -131,22 +131,6 @@ This is the place where I opensource stuff and break things :rofl:
 </p>
 
 
-
-<br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbas-roholamin&show_icons=true&locale=en&layout=compact&theme=dark" alt="abbas-roholamin" />
-</p>
-  
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abbas-roholamin&count_private=true&show_icons=true&locale=en&theme=dark" alt="abbas-roholamin" />
-<br>
-   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-roholamin&theme=dark" alt="abbas-roholamin" />
-</p>
-
-
-
 🔗 &nbsp;**Connect with me**
 <p align="left">
 
