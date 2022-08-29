@@ -121,9 +121,9 @@ I am Abdul Wahed Sabury.I am a Full Stack Web Developer with experience of more 
     />
   </a>
     </a>
-     <a href="https://https://nextjs.org/" target="_blank">
+     <a href="https://https://livewire.org/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg"
       alt="nextjs"
       width="40"
       height="40"
