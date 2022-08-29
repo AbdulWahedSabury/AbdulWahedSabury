@@ -121,10 +121,10 @@ I am Abdul Wahed Sabury.I am a Full Stack Web Developer with experience of more 
     />
   </a>
     </a>
-     <a href="https://https://livewire.org/" target="_blank">
+     <a href="https://laravel-livewire.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original-wordmark.svg"
-      alt="nextjs"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel-livewire/laravel-livewire-original-wordmark.svg"
+      alt="laravel-livewire"
       width="40"
       height="40"
     />
