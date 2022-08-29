@@ -3,7 +3,7 @@ I am Abdul Wahed Sabury.I am a Full Stack Web Developer with experience of more 
 - PHP
 - JavaScript (Vue, jQuery)
 - HTML/CSS
-- SQL (mssql):rofl:
+- SQL (mssql)
 
 
 - 🔭 &nbsp;I’m currently working on https://rahanet.af/ :wink:
