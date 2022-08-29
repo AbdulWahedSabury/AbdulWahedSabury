@@ -2,7 +2,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on https://rahanet.af/ :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Nodejs
+- 🌱 &nbsp;I’m currently learning Js, Nodejs
 
 
 
