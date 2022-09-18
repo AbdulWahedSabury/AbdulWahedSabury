@@ -1,5 +1,5 @@
 ### Hello World <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I am Abdul Wahed Sabury.I am a Full Stack Web Developer with experience of more than 2+ years with specializing in Web-Development & Designing.
+I am Abdul Wahed Sabury.I am a Web Developer with experience of more than 2+ years with specializing in Web-Development & Designing.
 
 
 - 🔭 &nbsp;I’m currently working on https://rahanet.af/ :wink:
