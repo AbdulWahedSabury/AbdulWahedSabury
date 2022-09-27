@@ -88,14 +88,6 @@ I am Abdul Wahed Sabury.I am a Web Developer with experience of more than 2+ yea
       height="40"
     />
   </a>
-   <a href="https://svelte.dev" target="_blank">
-       <img
-         src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-         alt="svelte"
-         width="40"
-         height="40"
-       />
-   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
