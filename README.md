@@ -96,6 +96,14 @@ I am Abdul Wahed Sabury.I am a Web Developer with experience of more than 2+ yea
       height="40"
     />
   </a>
+    <a href="https://react.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/reactjs-original-wordmark.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
