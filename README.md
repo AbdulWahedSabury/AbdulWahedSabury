@@ -44,9 +44,30 @@ I am Abdul Wahed Sabury.I am a Web Developer with experience of more than 2+ yea
       height="40"
     />
   </a>
-   
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <a href="https://vuejs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="reactjs"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
    <a
     href="https://jquery.com/"
     target="_blank"
