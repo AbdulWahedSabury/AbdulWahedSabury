@@ -181,4 +181,19 @@ I am Abdul Wahed Sabury.I am a Web Developer with experience of more than 2+ yea
 <a href="https://www.facebook.com/abdulwahed.abdulwahed.790/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
    
    
-![alt text](https://miro.medium.com/max/800/0*XH3rLskyOsCqVV-j.jpg)
+<div class="marquee">
+  <ul class="marquee-content">
+    <li><i class="fab fa-github"></i></li>
+    <li><i class="fab fa-codepen"></i></li>
+    <li><i class="fab fa-free-code-camp"></i></li>
+    <li><i class="fab fa-dev"></i></li>
+    <li><i class="fab fa-react"></i></li>
+    <li><i class="fab fa-vuejs"></i></li>
+    <li><i class="fab fa-angular"></i></li>
+    <li><i class="fab fa-node"></i></li>
+    <li><i class="fab fa-wordpress"></i></li>
+    <li><i class="fab fa-aws"></i></li>
+    <li><i class="fab fa-docker"></i></li>
+    <li><i class="fab fa-android"></i></li>
+  </ul>
+</div>
