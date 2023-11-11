@@ -1,9 +1,14 @@
 ### Hello World <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I am Abdul Wahed Sabury.I am a Web Developer with experience of more than 2+ years with specializing in Web-Development & Designing.
+Hi there! I am Abdul wahed Sabury, a passionate web developer with 3 years of hands-on experience in developing dynamic user-centric digital solutions.
+
+My journey in the web development world has been driven by a love of turning new ideas into functional, beautiful, and impactful web applications. With a strong foundation in PHP, JavaScript, SQL, and knowledge of frameworks like Laravel, react.js, vue.js I have had the pleasure of working on a variety of projects
+
+As a data-driven developer, I care not only about writing lines of code but also about harnessing the power of data to create meaningful digital experiences. Whether it’s analyzing user behavior or optimizing backend functionality, I believe in letting data guide decisions.
+
+If you would like to collaborate on a project, discuss emerging web technologies, or explore how we can turn ideas into reality, feel free to contact me! Let’s build the network of the future together.
 
 
-- 🔭 &nbsp;I’m currently working in https://rahanet.af :wink:
-- 🌱 &nbsp;I’m currently learning Nodejs
+- 🔭 &nbsp;I’m currently working as a freelancer:
 
 
 
