@@ -73,6 +73,15 @@ If you would like to collaborate on a project, discuss emerging web technologies
       height="40"
     />
   </a>
+     </a>
+    <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/query-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
    <a
     href="https://jquery.com/"
     target="_blank"
